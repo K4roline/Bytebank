@@ -1,0 +1,1 @@
+Projeto de um banco desenvolvido para estudos de orientação a objetos e utilização do NODE.
